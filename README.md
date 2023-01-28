@@ -125,7 +125,8 @@ Write HTML and CSS Code for designing book cover page and execute them.
         </div>
     </body>
 </html>
-### Output:
+
+## Output:
 
 ![Screenshot (32)](https://user-images.githubusercontent.com/118707879/215278949-8baa6b44-1e7d-4691-a1ed-126ac318ce0a.png)
 
